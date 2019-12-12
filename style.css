@@ -1,0 +1,41 @@
+/*#mainNav {
+	background-color: #2bdbba;
+}*/
+
+#mainNav.navbar-shrink {
+	background-color: #2bdbba;
+
+}
+
+.nav-link {
+  font-weight: 400;
+  color: #fff;
+  text-decoration: none;
+}
+
+.nav-link:hover {
+  color: #fff;
+}
+
+.nav-link:focus, .nav-link.focus {
+  box-shadow: none;
+}
+
+.nav-link:disabled, .nav-link.disabled {
+  color: #0c7c67;
+  pointer-events: none;
+}
+
+/*#about {
+	height: 100px;
+}*/
+
+#about .img {
+	display: flex;
+	align-items: flex-start;
+}
+
+.row {
+	justify-content: center
+
+}
